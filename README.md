@@ -15,9 +15,6 @@ A Flutter application to manage sales and expenses with category tracking, itemi
 - SQLite (optional)
 - Firebase (optional for sync)
 
-## Screenshots
-![Home](screens/home.png)
-![Add Expense](screens/add_expense.png)
 
 ## Setup
 ```bash
